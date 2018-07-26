@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/zoomOut.png</file>
+        <file>icons/zoomIn.png</file>
+        <file>icons/select.png</file>
+        <file>icons/save.png</file>
+        <file>icons/rotateRight.png</file>
+        <file>icons/rotateLeft.png</file>
+        <file>icons/reset.png</file>
+        <file>icons/open.png</file>
+        <file>icons/crop.png</file>
+    </qresource>
+</RCC>
